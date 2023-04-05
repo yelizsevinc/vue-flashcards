@@ -1,5 +1,5 @@
 <template>
-  <v-main class="bg-secondary">
+  <v-main>
     <router-view />
   </v-main>
 </template>
