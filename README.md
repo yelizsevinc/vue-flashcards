@@ -1,57 +1,51 @@
-# base
+# Vue Flashcards for English Learning
 
-## Project setup
+Vue Flashcards is a web application designed to help you improve your English skills by using flashcards. This app makes learning new vocabulary & phrases more fun and easy.
 
-```
-# yarn
-yarn
+## Project Overview
 
-# npm
-npm install
+The project aims to provide a user-friendly interface for people learning English to practice and improve their vocabulary. Vue 3 and Vuetify are used to make it interactive and visually attractive.
 
-# pnpm
-pnpm install
-```
+## Features
 
-### Compiles and hot-reloads for development
+- Interactive Flashcards: Learn in an engaging way with flashcards that can be flipped to show translations or explanations.
+- English Data: Curated dataset of English vocabulary and phrases to provide meaningful content for learning.
+- Stylish UI: The app has a simple and user-friendly interface created using Vuetify.
 
-```
-# yarn
-yarn dev
+## Screenshots
 
-# npm
-npm run dev
+![Home Page](public/ss-home.png)
+![Flashcard Example](public/ss-en.png)
 
-# pnpm
-pnpm dev
-```
+## Technologies Used
 
-### Compiles and minifies for production
+- Vue 3: Progressive JS framework
+- Vuetify: Material Design component framework
+- Vite: Fast build tool and development server
+- WebFontLoader: Easy integration of web fonts
 
-```
-# yarn
-yarn build
+## Getting Started
 
-# npm
-npm run build
+1. **Installation**: Clone the repository and install dependencies.
 
-# pnpm
-pnpm build
-```
+   ```bash
+   yarn install
+   ```
 
-### Lints and fixes files
+2. **Development**: Start the development server and open the app in your browser.
 
-```
-# yarn
-yarn lint
+   ```bash
+   yarn dev
+   ```
 
-# npm
-npm run lint
+3. **Build**: Compile and minify the app for production.
 
-# pnpm
-pnpm lint
-```
+   ```bash
+   yarn build
+   ```
 
-### Customize configuration
+4. **Linting**: Run code linting to ensure code quality.
 
-See [Configuration Reference](https://vitejs.dev/config/).
+   ```bash
+   yarn lint
+   ```
