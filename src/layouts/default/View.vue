@@ -7,6 +7,6 @@
 </template>
 
 <script setup>
-  import DefaultBar from '@/layouts/default/AppBar.vue'
-  import MainView from '@/layouts/default/Main.vue'
+import DefaultBar from "@/layouts/default/AppBar.vue";
+import MainView from "@/layouts/default/Main.vue";
 </script>

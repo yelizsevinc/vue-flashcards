@@ -10,7 +10,6 @@
       <div class="py-6" />
 
       <v-row class="d-flex align-center justify-center">
-
         <v-col cols="auto">
           <v-btn
             color="primary"
@@ -20,11 +19,7 @@
             size="x-large"
             variant="flat"
           >
-            <v-icon
-              icon="mdi-speedometer"
-              size="large"
-              start
-            />
+            <v-icon icon="mdi-speedometer" size="large" start />
 
             Practice
           </v-btn>
@@ -35,5 +30,5 @@
 </template>
 
 <script setup>
-  //
+//
 </script>

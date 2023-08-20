@@ -9,7 +9,8 @@ const introduce = {
   hints: ["Work English", "B2"],
   question: "introduce",
   answer: "tanitmak",
-  explanation: "to put something into use, operation, or a place for the first time",
+  explanation:
+    "to put something into use, operation, or a place for the first time",
 };
 
 const delay = {
@@ -23,14 +24,16 @@ const treat = {
   hints: ["Hospital", "A2"],
   question: "treat",
   answer: "tedavi",
-  explanation: "to do something to improve the condition of an ill or injured person, or to try to cure a disease",
+  explanation:
+    "to do something to improve the condition of an ill or injured person, or to try to cure a disease",
 };
 
 const seal = {
   hints: ["B1"],
   question: "seal",
   answer: "muhur",
-  explanation: "an official mark on a document, sometimes made with wax, that shows that it is legal or has been officially approved",
+  explanation:
+    "an official mark on a document, sometimes made with wax, that shows that it is legal or has been officially approved",
 };
 
 const quite = {
@@ -40,11 +43,4 @@ const quite = {
   explanation: "completely",
 };
 
-export const englishData = [
-  inform,
-  introduce,
-  delay,
-  treat,
-  seal,
-  quite,
-];
+export const englishData = [inform, introduce, delay, treat, seal, quite];
