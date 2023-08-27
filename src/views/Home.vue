@@ -13,7 +13,7 @@
         <v-col cols="auto">
           <v-btn
             color="primary"
-            href="/en"
+            to="/en"
             min-width="228"
             rel="noopener noreferrer"
             size="x-large"
