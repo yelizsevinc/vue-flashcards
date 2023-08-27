@@ -12,7 +12,9 @@ The project aims to provide a user-friendly interface for people learning Englis
 - English Data: Curated dataset of English vocabulary and phrases to provide meaningful content for learning.
 - Stylish UI: The app has a simple and user-friendly interface created using Vuetify.
 
-## Screenshots
+## Demo & Screenshots
+
+### [**Demo**](http://yeliz.sevinc.cloud/#/)
 
 ![Home Page](public/ss-home.png)
 ![Flashcard Example](public/ss-en.png)
