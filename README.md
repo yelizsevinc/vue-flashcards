@@ -4,7 +4,7 @@ Vue Flashcards is a web application designed to help you improve your English sk
 
 ## Project Overview
 
-The project aims to provide a user-friendly interface for people learning English to practice and improve their vocabulary. Vue 3 and Vuetify are used to make it interactive and visually attractive.
+The project aims to provide a user-friendly interface for people learning English to practice and improve their vocabulary. Vue 3 & Vuetify are used to make it interactive and visually attractive.
 
 ## Features
 
